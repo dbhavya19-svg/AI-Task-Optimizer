@@ -20,9 +20,8 @@ The **AI-Powered Task Optimizer** is a data science-based application that analy
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run 
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/AI-Task-Optimizer.git
-cd AI-Task-Optimizer
+pip install -r requirements.txt  
+python -m streamlit run app.py
+
